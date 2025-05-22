@@ -1,43 +1,54 @@
 extends CanvasLayer
 
-@onready var text_label: Label = $Panel/TextLabel
+@onready var panel := $Panel
+@onready var text_label := $Panel/TextLabel
 
-@export var typing_speed := 0.03  # seconds per character
-
-var is_showing = false
+@export var typing_speed := 0.03
 signal dialogue_finished
 
-func show_message(text: String) -> void:
-	if is_showing:
-		return  # Ignore if another message is still running
+var is_showing = false
 
-	GameState.current_mode = GameState.GameMode.DIALOGUE
+func show_message(fade: String, text: String) -> void:
+	if is_showing:
+		await dialogue_finished  # Wait for previous message to finish
+
 	is_showing = true
+	GameState.current_mode = GameState.GameMode.DIALOGUE
+
 	text_label.text = ""
+	
 	visible = true
 
+	# Fade in the panel
+	if fade == "fadeIn" or fade == "both":
+		# Clear previous content and start transparent
+		panel.modulate.a = 0.0
+		var tween = get_tree().create_tween()
+		tween.tween_property(panel, "modulate:a", 1.0, 0.3).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_OUT)
+		await tween.finished
+
 	# Typing effect
-	var typing = true
-	var full_text = text
-	var current_index = 0
+	await _type_text(text)
 
-	while typing:
-		if current_index < full_text.length():
-			text_label.text += full_text[current_index]
-			current_index += 1
-			await get_tree().create_timer(typing_speed).timeout
-			if Input.is_action_just_pressed("ui_accept"):
-				text_label.text = full_text
-				break
-		else:
-			typing = false
-
-	# Wait for user to press continue (e.g. Enter)
+	# Wait for input
 	await _wait_for_continue()
-	GameState.current_mode = GameState.GameMode.EXPLORE
+
+	# Optionally fade out
+	if fade == "fadeOut" or fade == "both":
+		var fade_out = get_tree().create_tween()
+		fade_out.tween_property(panel, "modulate:a", 0.0, 0.2)
+		await fade_out.finished
+
 	visible = false
 	is_showing = false
+	GameState.current_mode = GameState.GameMode.EXPLORE
 	emit_signal("dialogue_finished")
+
+
+func _type_text(text: String) -> void:
+	for char in text:
+		text_label.text += char
+		await get_tree().create_timer(typing_speed).timeout
 
 func _wait_for_continue():
 	while true:

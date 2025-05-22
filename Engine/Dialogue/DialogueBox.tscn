@@ -49,6 +49,5 @@ offset_right = 314.0
 offset_bottom = 40.6389
 theme_override_fonts/font = ExtResource("2_nmn3y")
 theme_override_font_sizes/font_size = 9
-text = "How many lines makes sense to use at this size? 2 seems note enough"
 autowrap_mode = 3
 max_lines_visible = 3
