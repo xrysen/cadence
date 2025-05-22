@@ -1,0 +1,301 @@
+Act 1 – Arrival in Cantible & Discovery
+1. First Steps in Cantible
+Cadence arrives in Cantible, a faded, once-vibrant port town that feels half-asleep under the quiet rule of the Order of Silence.
+
+Music is outlawed. Street performers are gone, instruments are contraband, and people speak in hushed tones.
+
+She explores the town, absorbing its eerie calm and strange reverence toward “peace.”
+
+Locals are suspicious of newcomers and tight-lipped about the Institute or anything related to “the Song.”
+
+🎭 CANTIBLE NPCs & DIALOGUE
+🧓 Old Luthier (Instrument repair shop – shuttered)
+A retired craftsman who once made instruments for the Institute.
+
+He speaks in riddles and avoids direct answers.
+
+Luthier:
+“Strings break. Wood warps. Voices fade. But some things… still resonate.”
+
+[When asked about Allegro]
+“A man who chased the impossible harmony. Broke more than just chords tryin’.”
+
+🧕 Shopkeeper Nola (General goods vendor)
+Nervous and polite. Has a child who hums forbidden tunes.
+
+Nola:
+“Mind your voice, traveler. There are ears even in silence.”
+
+[Optional: Player hears her daughter quietly humming.]
+“Stop that! You know what happened to the minstrel boy!”
+
+[Later, if trust is built]
+“They took him away in the night. Said his melody ‘fractured the stillness.’ All he wanted was to make people smile.”
+
+🧙‍♂️ Street Bard, “No Strings” (Mouth harp player – doesn’t sing)
+A mysterious traveler who performs without voice or lyrics.
+
+Seems to recognize Cadence.
+
+Bard:
+“Your steps beat strange rhythms. Old ones.”
+“I knew another with music in his bones. Wrote the sky a lullaby. The stars didn’t sleep.”
+
+[When pressed]
+“The Institute tried to teach harmony. But forgot what a melody truly is.”
+
+🧑‍🏫 Archivist Thae (Quiet scholar in ruined Institute annex)
+One of the few who still studies pre-ban music theory.
+
+Helps Cadence find records of Allegro.
+
+Thae:
+“Most of the scores were burned. But fragments remain… dissonant, unfinished. Like his final work.”
+
+“He believed song could change the gods, not just praise them. Heresy, they called it.”
+
+“If you are his daughter, then the Song lives still.”
+
+👩‍✈️ Guard Captain Sera (Stationed near teleport gate)
+Wary of magic and resistant to rebellion.
+
+Can give useful clues if respected or manipulated.
+
+Sera:
+“We keep the peace here. That includes the silence.”
+
+[If player gains her trust]
+“Stretto? He was a war hero once. Before he started preaching about ‘unbound resonance.’ Haven’t seen him in years.”
+
+👴 Fisherman Hale (Harbor)
+Spends his days mending nets and humming old sea shanties under his breath.
+
+Hale:
+“Bah, the Order can stuff cotton in their ears. The sea don’t care who sings to it.”
+
+“Used to hear music on the wind. Real music. Then the gods went quiet. Then the people did too.”
+
+🧒 Child NPC (optional)
+Hides in alleyways, trying to mimic melodies heard in dreams.
+
+Child:
+“Do you hear it too? The song in the air? Mama says it’s ghosts, but I think it’s… calling me.”
+
+🧑‍🌾 NPC: Widow Arlyn (Elderly woman tending to a rooftop garden in Cantible)
+Survived The Silence and speaks about it in hushed, haunted tones.
+
+Seen as slightly eccentric, but respected for her age and memory.
+
+Her garden only grows sound-reactive flora — a nod to the past.
+
+🌿 First Encounter:
+Arlyn (to herself, softly humming):
+“No no no… not that chord. That one hurts the roots…”
+
+Cadence:
+“Excuse me… what are you singing?”
+
+Arlyn: (startled)
+“Oh! Forgive me. I forget myself sometimes. You’d think after the Silence, we’d all stop humming. But songs are like weeds — they grow in cracks.”
+
+🌿 Ask About The Silence:
+Cadence:
+“You mentioned the Silence… What was it?”
+
+Arlyn:
+“A single note. That’s all it took. One note sung wrong… or maybe right. No one agrees.”
+
+“Some say it was Allegro. Others say it was the gods themselves, punishing us for singing too freely. The sky cracked. Instruments shattered. And for a moment… the world held its breath.”
+
+[She pauses, presses her fingers to her ears.]
+“It never quite let it go.”
+
+🌿 Optional Follow-up (after temple progress or music box memory):
+Arlyn:
+“They called it a catastrophe. I call it a beginning. Harmony fears change. Dissonance invites it. That note—whatever it was—meant something. And maybe, just maybe, you’re the rest of the song.”
+
+2. Meeting Poco
+Cadence hears faint chimes and follows them to a boy tending to injured birds with little silver bells—Poco.
+
+They bond. Poco feels strangely drawn to her music box, which begins to emit a soft glow.
+
+He offers to help her find Stretto, someone his grandmother once knew.
+
+3. The Hidden Institute
+With Poco’s help, Cadence uncovers a hidden entrance to the abandoned Institute—a once-sacred academy of the Art of Song now sealed by the Order.
+
+Inside, they discover signs of a hasty evacuation. There are strange echoes, ghostly music fragments, and journal entries left by Allegro and Stretto.
+
+A spectral memory shows Allegro warning Stretto about Harmony’s intentions and speaking of the coming "Resonant Cataclysm."
+
+4. Stretto Revealed
+Stretto has been hiding beneath the old bell tower, using its resonance to shield himself from detection.
+
+Grumpy but deeply knowledgeable, he reluctantly agrees to help Cadence. He reveals:
+
+Her father tried to restore balance by reuniting Harmony and Dissonance.
+
+The gods vanished after a divine discord, and their temples are now cut off from the world.
+
+The only way to restore them—or stop what's coming—is to awaken each god’s domain.
+
+5. Unlocking the First Temple
+Cadence’s music box resonates with a seal at the town square, triggering an ancient teleport gate: the first path to Tempo’s Temple opens.
+
+Stretto warns: “Only the First Voice could navigate these realms. And you… you might be its echo.”
+
+🎼 Cantible Exploration Timeline
+(Tied to Cadence’s journey & story progression)
+
+🟢 PHASE 1: Arrival and First Steps
+Unlocked Areas:
+
+Harborfront & Docks
+
+Market Square
+
+Residential Row (partial)
+
+Main Goals:
+
+Establish tone: a world muted by fear of music.
+
+Introduce Tina, initial shops, and set the mystery in motion.
+
+Key Events:
+
+Arrival at port with Tina.
+
+Explore muted Market Square (people whisper, avoid song).
+
+Find Letter Fragment #1 in your satchel from Cadence’s mother.
+
+Meet Widow Arlyn if exploring the Residential or High Ridge early.
+
+Key NPCs:
+
+Tina (introduction)
+
+Shopkeeper Nola and her child
+
+Guard Captain Sera (blocks access to Teleport Plaza)
+
+Widow Arlyn (optional but memorable)
+
+Humming child in Residential Row alley (optional)
+
+Narrative Trigger:
+
+After interacting with 2–3 NPCs and reading your mother’s letter fully, Cadence feels the music box react. This triggers the first playable memory puzzle or “music box flashback.”
+
+🟡 PHASE 2: Seeking Stretto
+Newly Unlocked Areas:
+
+Residential Row (fully)
+
+Rooftop Gardens / High Ridge
+
+Main Goals:
+
+Find hints about Stretto.
+
+Deepen worldbuilding and Cadence’s emotional backstory.
+
+Introduce tension between Harmony’s Order and dissenters.
+
+Key Events:
+
+Cadence meets Arlyn, learns about The Silence.
+
+Discover secret graffiti wall with messages from the “Chorus” (a resistance group).
+
+Second music box fragment found.
+
+Learn that Stretto was once a teacher at the Institute.
+
+Key NPCs:
+
+Arlyn (offers cryptic guidance about gods & Allegro)
+
+Archivist Thae (tells you about the Institute’s fall)
+
+Tina again, who offers to help but warns that “some doors stay closed for good reason.”
+
+Narrative Trigger:
+
+Cadence sings near the broken statue of the gods. A sealed path behind the Institute flickers open briefly. This begins the subquest to Find the Hidden Passage.
+
+🔵 PHASE 3: The Institute Grounds (Locked Zone Becomes Active)
+Unlocked Area:
+
+Old Institute Grounds (partial)
+
+Backroom / hidden chamber
+
+Main Goals:
+
+Find and awaken Stretto.
+
+Reveal the truth about Allegro’s research.
+
+Tie in the ban on music, gods, and Cadence’s own legacy.
+
+Key Events:
+
+Solve music-themed lock puzzles using pitch/melody/rhythm.
+
+Find Allegro’s torn journal page about the First Voice.
+
+Meet Stretto in a sealed music hall (now sealed off to the public).
+
+Flashback sequence: Allegro’s failed ritual, the “Note that Broke the Sky.”
+
+Key NPCs:
+
+Stretto (joins story fully)
+
+Ghostlike echoes of past students during puzzle sequences
+
+Narrative Trigger:
+
+Stretto explains how to reach the Temples via the Silent Chime (teleport shrine), and how Cadence’s gift may restore divine resonance.
+
+🔴 PHASE 4: Resonance Awakens – Access to Teleport Plaza
+Unlocked Area:
+
+Teleport Plaza (The Silent Chime)
+
+Main Goals:
+
+Begin main temple journeys.
+
+Set up core objective: restore the divine resonance.
+
+Allow fast travel from Cantible hub.
+
+Key Events:
+
+Cadence sings at the Silent Chime—just a whisper of tone makes the cracked bell resonate.
+
+Guardians watching the plaza are shocked; one recognizes the name Allegro.
+
+Portal activates and Temple selection becomes available.
+
+Key NPCs:
+
+Guard Captain Sera (now conflicted)
+
+Optional: return to townsfolk, who begin cautiously humming again if side quests were completed
+
+Narrative Trigger:
+
+Choose first Temple (Tempo, Melody, or Dissonance). Each temple visited affects how Cantible changes when Cadence returns.
+
+🌀 Optional Side Quest Ideas During Each Phase
+🎻 “Echoes of Allegro” – Find torn sheet music and journal pages around town and combine them.
+
+🌱 “Arlyn’s Garden” – Use resonance to help her sound-flowers bloom again.
+
+🎶 “The Chorus Speaks” – Piece together graffiti clues to locate a hidden safehouse under the plaza.
+
+🧸 “Poco’s Origins” – After recruiting Poco, revisit Cantible to help him heal a scared orphan child with a lullaby spell.

@@ -1,0 +1,66 @@
+🎵 COMBAT IN RESONANT HEART
+🔸 Combat Style: Rhythm-Infused Turn-Based (or ATB-lite)
+Core idea: Every party member’s abilities are tied to musical patterns—tempo, rhythm, harmony, and dissonance.
+
+Input system: Each character's actions have short rhythm inputs (like hitting a few notes in time) to execute enhanced versions of spells/attacks. Think simplified rhythm minigame per action.
+
+Duet Combos: Characters can "sync" for special attacks—these require both characters' rhythms to match or complement each other.
+
+⚔️ TYPES OF ENEMIES
+We can group enemies into 3 main categories:
+
+🧍 1. Silenced Ones (Humanoid)
+Victims of the Silence. They’ve lost their voices, or their minds fractured when they resisted Harmony’s doctrine.
+
+Hollow Chorister: Sings dissonant, ghostly tones that debuff your rhythm meter.
+
+Tonewarden: Harmony's soldiers—use order and repetition to lock your actions.
+
+Muted Acolyte: Moves slowly, but silences a character if not interrupted.
+
+🗨️ “They’re not evil… they just forgot how to listen.”
+
+🪨 2. Resonant Beasts (Elemental/Magical Creatures)
+Creatures warped by imbalanced resonance—some corrupted, others confused.
+
+Crackling Timebeast (Tempo): Shifts initiative order, speeds up enemy turns.
+
+Weeping Bloom (Melody): Grows stronger if not interrupted emotionally.
+
+Harmony Golem: Attacks in repeating patterns. Must be desynchronized.
+
+Dissonant Wisp: Unpredictable attacks, changes weakness mid-battle.
+
+👁️ 3. Echoes & Shadows (Memory & Divine-Themed)
+These appear in temples or music-box flashbacks.
+
+Echo of Allegro: A boss-level mirror that uses combinations of your own party’s moves.
+
+Fragmented Harmony: Appears as a radiant being—but attacks if you sing out of "order".
+
+The Screaming Silence (late game): Boss whose scream disrupts rhythm, must be beaten with coordinated duets.
+
+💥 BATTLE THEMES
+Combat should evolve musically too.
+
+Enemies could have themes in different time signatures (e.g., 3/4 vs 4/4) that challenge your inputs.
+
+Bosses shift the rhythm mid-fight—forcing you to adapt.
+
+For example, a Harmony boss may start with strict 4/4 patterns (easy to follow), but becomes erratic when breaking apart, revealing Dissonance.
+
+🧪 STATUS EFFECTS WITH A MUSICAL TWIST
+Status Effect	Description
+Silenced	Can’t use song-based magic
+Offbeat	Rhythm input windows are harder to hit
+Echoed	Attack repeats uncontrollably next turn
+Muted Memory	Temporary memory loss of spell patterns
+Synchronized	Temporary boost with a specific ally
+
+📊 ENCOUNTER DESIGN
+Random Battles? Nope. Have enemies visible in the world—sometimes as shifting sound shapes or lingering echoes.
+
+Battle Zones: Certain areas “hum” or shimmer, alerting you that the resonance there is unstable and may attract enemies.
+
+Cantible: Mostly safe—until late-game shifts begin. Optional side dungeons in town can reveal corrupted music spirits.
+

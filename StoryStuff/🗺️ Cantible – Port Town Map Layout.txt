@@ -1,0 +1,110 @@
+🗺️ Cantible – Port Town Map Layout
+🌊 1. Harborfront & Docks (Southern Edge)
+Where Cadence first arrives with Tina.
+
+Bustling during the day with crates, travelers, and salty wind.
+
+Key NPCs:
+
+Tina (initial introduction)
+
+Fisherman Hale – sings old sea songs
+
+Notables:
+
+Ship that brought Cadence
+
+Empty slip for Tina’s ship (will dock again later)
+
+🛒 2. Market Square (Central Hub)
+The town’s economic heart. Sounds are hushed, conversations subdued.
+
+Guards watch from corners. People avoid singing or whistling.
+
+Key NPCs:
+
+Shopkeeper Nola and her humming child
+
+Guard Captain Sera near the northern checkpoint
+
+Notables:
+
+General Goods stall (Nola)
+
+Guard post leading to teleport plaza
+
+🧱 3. Old Institute Grounds (Northwest Edge – slightly overgrown)
+Crumbled remains of the once-grand music academy.
+
+Now sealed to the public. Secret entrance can be unlocked later.
+
+Key NPCs:
+
+Archivist Thae – researching Allegro
+
+Stretto (found later in a hidden room)
+
+Notables:
+
+Broken statue of the Three Gods (one side fractured)
+
+Burned library wing
+
+Sealed auditorium
+
+🌺 4. Rooftop Gardens / High Ridge (Northeast – elevated terrace)
+A quiet refuge from the silent town.
+
+The wind carries faint melodic tones here.
+
+Key NPCs:
+
+Widow Arlyn – caretaker of sound-reactive flora
+
+Notables:
+
+Soundflower beds that react to Cadence’s singing
+
+Overlook view of Cantible
+
+🏘️ 5. Residential Row (East side, near cliffs)
+Homes are shuttered, quiet.
+
+Hidden music graffiti on one of the alley walls (optional discovery).
+
+Key NPCs:
+
+Child hiding in alley, humming dream songs
+
+Optional Secrets:
+
+Backdoor to the Institute (late-game)
+
+Music Box Fragment (can be found under floorboards)
+
+⛲ 6. Teleport Plaza (The Silent Chime) (Northern edge)
+Once a sacred musical shrine, now repurposed as a teleport node.
+
+A cracked bell stands in the center — no longer rings.
+
+Key NPCs:
+
+Guard Captain Sera patrols the area
+
+Function:
+
+Teleport hub unlocked after visiting each divine temple.
+
+Becomes “musically reactive” later in the game.
+
+📍 Optional Layout Summary (Compass Orientation):
+less
+Copy
+Edit
+             [ High Ridge / Arlyn ]
+                    |
+        [ Institute Grounds ] — [ Residential Row ]
+                    |                    |
+        [ Market Square / Nola ] — [ Guard / Teleport Plaza ]
+                    |
+               [ Harbor / Docks ]

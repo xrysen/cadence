@@ -1,0 +1,54 @@
+[gd_scene load_steps=5 format=3 uid="uid://cu61fjhn2srnj"]
+
+[ext_resource type="Script" path="res://Engine/Dialogue/DialogueBox.gd" id="1_wgnqr"]
+[ext_resource type="Texture2D" uid="uid://b41cnuojyyetx" path="res://Textures/textbox.tres" id="2_i6yny"]
+[ext_resource type="FontFile" uid="uid://ihkjgy48qimh" path="res://Fonts/saikyo.png" id="2_nmn3y"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_hr3hv"]
+bg_color = Color(0.0117647, 0.0431373, 0.909804, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+corner_radius_top_left = 2
+corner_radius_top_right = 2
+corner_radius_bottom_right = 2
+corner_radius_bottom_left = 2
+
+[node name="DialogueBox" type="CanvasLayer"]
+script = ExtResource("1_wgnqr")
+
+[node name="Panel" type="Panel" parent="."]
+anchors_preset = -1
+anchor_top = 0.795833
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_styles/panel = SubResource("StyleBoxFlat_hr3hv")
+metadata/_edit_use_anchors_ = true
+
+[node name="TextureRect" type="TextureRect" parent="Panel"]
+layout_mode = 0
+offset_left = 2.0
+offset_top = 2.0
+offset_right = 318.0
+offset_bottom = 47.0
+texture = ExtResource("2_i6yny")
+expand_mode = 1
+
+[node name="TextLabel" type="Label" parent="Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = -0.00940439
+anchor_top = 0.0277778
+anchor_bottom = 0.0277778
+offset_left = 6.0094
+offset_top = 0.638887
+offset_right = 314.0
+offset_bottom = 40.6389
+theme_override_fonts/font = ExtResource("2_nmn3y")
+theme_override_font_sizes/font_size = 9
+text = "How many lines makes sense to use at this size? 2 seems note enough"
+autowrap_mode = 3
+max_lines_visible = 3
