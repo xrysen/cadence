@@ -1,8 +1,8 @@
 [gd_scene load_steps=7 format=3 uid="uid://upiet5jhpjge"]
 
-[ext_resource type="Texture2D" uid="uid://wceeor2fbj2u" path="res://Tilesets/cantible.png" id="1_uvtwd"]
+[ext_resource type="Texture2D" uid="uid://wceeor2fbj2u" path="res://Assets/Tilesets/cantible.png" id="1_uvtwd"]
 [ext_resource type="Script" path="res://test.gd" id="1_wtwwf"]
-[ext_resource type="PackedScene" uid="uid://t7plwsmx8r7e" path="res://Sprites/Cadence/Cadence.tscn" id="2_ukx03"]
+[ext_resource type="PackedScene" uid="uid://t7plwsmx8r7e" path="res://Assets/Sprites/Characters/Cadence/Cadence.tscn" id="2_ukx03"]
 [ext_resource type="Script" path="res://Scripts/playerMove.gd" id="4_5r5jw"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ego24"]

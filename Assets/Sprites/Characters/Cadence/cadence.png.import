@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://uft7mlo8aq3t"
-path="res://.godot/imported/cadence-sheet.png-de98ac9748df6133e468e8b1d9c7a334.ctex"
+uid="uid://f5l6ib4tk7gv"
+path="res://.godot/imported/cadence.png-34e4b3b5e6d774856b0af13e0a8e5dcd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Cadence/cadence-sheet.png"
-dest_files=["res://.godot/imported/cadence-sheet.png-de98ac9748df6133e468e8b1d9c7a334.ctex"]
+source_file="res://Assets/Sprites/Characters/Cadence/cadence.png"
+dest_files=["res://.godot/imported/cadence.png-34e4b3b5e6d774856b0af13e0a8e5dcd.ctex"]
 
 [params]
 

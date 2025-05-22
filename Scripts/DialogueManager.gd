@@ -1,6 +1,6 @@
 extends Node
 
-var dialogue_box := preload("res://Engine/Dialogue/DialogueBox.tscn").instantiate()
+var dialogue_box := preload("res://Scripts/Engine/Dialogue/DialogueBox.tscn").instantiate()
 
 func _ready():
 	call_deferred("_add_dialogue_box")

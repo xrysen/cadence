@@ -1,6 +1,6 @@
 [gd_scene load_steps=20 format=3 uid="uid://t7plwsmx8r7e"]
 
-[ext_resource type="Texture2D" uid="uid://uft7mlo8aq3t" path="res://Sprites/Cadence/cadence-sheet.png" id="1_w2s7x"]
+[ext_resource type="Texture2D" uid="uid://uft7mlo8aq3t" path="res://Assets/Sprites/Characters/Cadence/cadence-sheet.png" id="1_w2s7x"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_c51er"]
 atlas = ExtResource("1_w2s7x")

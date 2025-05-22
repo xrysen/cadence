@@ -3,12 +3,12 @@
 importer="font_data_image"
 type="FontFile"
 uid="uid://ihkjgy48qimh"
-path="res://.godot/imported/saikyo.png-1a0ed671b2d5fb06fc10fb36e5f50c77.fontdata"
+path="res://.godot/imported/saikyo.png-471bfb99ff882d8bb2147b1ecbca0c30.fontdata"
 
 [deps]
 
-source_file="res://Fonts/saikyo.png"
-dest_files=["res://.godot/imported/saikyo.png-1a0ed671b2d5fb06fc10fb36e5f50c77.fontdata"]
+source_file="res://Assets/Fonts/saikyo.png"
+dest_files=["res://.godot/imported/saikyo.png-471bfb99ff882d8bb2147b1ecbca0c30.fontdata"]
 
 [params]
 

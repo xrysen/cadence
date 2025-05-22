@@ -1,8 +1,8 @@
 [gd_scene load_steps=5 format=3 uid="uid://cu61fjhn2srnj"]
 
-[ext_resource type="Script" path="res://Engine/Dialogue/DialogueBox.gd" id="1_wgnqr"]
+[ext_resource type="Script" path="res://Scripts/Engine/Dialogue/DialogueBox.gd" id="1_wgnqr"]
 [ext_resource type="Texture2D" uid="uid://b41cnuojyyetx" path="res://Textures/textbox.tres" id="2_i6yny"]
-[ext_resource type="FontFile" uid="uid://ihkjgy48qimh" path="res://Fonts/saikyo.png" id="2_nmn3y"]
+[ext_resource type="FontFile" uid="uid://ihkjgy48qimh" path="res://Assets/Fonts/saikyo.png" id="2_nmn3y"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_hr3hv"]
 bg_color = Color(0.0117647, 0.0431373, 0.909804, 1)
