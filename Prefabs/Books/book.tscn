@@ -1,0 +1,26 @@
+[gd_scene load_steps=5 format=3 uid="uid://blqk2a4130y4f"]
+
+[ext_resource type="Script" path="res://Prefabs/Books/book.gd" id="1_a74vh"]
+[ext_resource type="Texture2D" uid="uid://cyn0e2dx3a0jv" path="res://Prefabs/Books/book.png" id="1_u00nj"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_7sb4q"]
+size = Vector2(25, 21)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_1hn6j"]
+size = Vector2(14, 12)
+
+[node name="Area2D" type="Area2D"]
+script = ExtResource("1_a74vh")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0.5, 2.5)
+shape = SubResource("RectangleShape2D_7sb4q")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_u00nj")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(0, 2)
+shape = SubResource("RectangleShape2D_1hn6j")
