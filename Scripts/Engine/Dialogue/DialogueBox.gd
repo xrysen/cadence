@@ -3,15 +3,14 @@ extends CanvasLayer
 @onready var panel := $Panel
 @onready var text_label := $Panel/TextLabel
 
-func _ready():
-	print("Dialogue box is ready!")
-
 @export var typing_speed := 0.03
+@export var fade := "both"
 signal dialogue_finished
 
 var is_showing = false
 
 func show_message(fade: String, text: String) -> void:
+	GameState.current_mode = GameState.GameMode.DIALOGUE
 	if is_showing:
 		await dialogue_finished
 
@@ -35,6 +34,7 @@ func show_message(fade: String, text: String) -> void:
 
 	visible = false
 	is_showing = false
+	GameState.current_mode = GameState.GameMode.EXPLORE
 	emit_signal("dialogue_finished")
 
 func _type_text(text: String) -> void:

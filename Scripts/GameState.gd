@@ -5,8 +5,20 @@ enum GameMode {
 	BATTLE,
 	MENU,
 	DIALOGUE,
-	CUTSCENE
+	CUTSCENE,
+	SCENE_CHANGE
 }
+
+enum Direction {
+	UP,
+	DOWN,
+	RIGHT,
+	LEFT
+}
+
+var player_direction = Direction.DOWN
+
+var spawn_position: Vector2 = Vector2.INF
 
 var current_mode = GameMode.EXPLORE
 # Called when the node enters the scene tree for the first time.

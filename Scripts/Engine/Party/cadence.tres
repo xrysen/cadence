@@ -1,0 +1,18 @@
+[gd_resource type="Resource" script_class="CharacterStats" load_steps=2 format=3 uid="uid://qlabnkknegur"]
+
+[ext_resource type="Script" path="res://Scripts/Engine/Party/CharacterStats.gd" id="1_ohiov"]
+
+[resource]
+script = ExtResource("1_ohiov")
+name = "Cadence"
+lvl = 1
+maxHp = 160
+curHp = 160
+maxMp = 60
+curMp = 60
+str = 6
+def = 7
+mag = 16
+res = 14
+spd = 10
+lck = 12

@@ -19,6 +19,7 @@ config/icon="res://icon.svg"
 
 GameState="*res://Scripts/GameState.gd"
 Talk="*res://Scripts/Engine/Dialogue/Talk.gd"
+Fade="*res://Scripts/Engine/Graphics/Fade.tscn"
 
 [display]
 

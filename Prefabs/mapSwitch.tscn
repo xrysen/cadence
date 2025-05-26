@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://bo18vv06cd6i5"]
+
+[ext_resource type="Texture2D" uid="uid://cyn0e2dx3a0jv" path="res://Prefabs/Books/book.png" id="1_v8spa"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_hvkt6"]
+
+[node name="MapSwitch" type="Area2D"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_hvkt6")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_v8spa")
